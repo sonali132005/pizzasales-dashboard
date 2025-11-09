@@ -200,4 +200,4 @@ High weekend demand indicates potential for dynamic pricing and targeted upselli
 
 Midweek sales dips (Tuesday–Thursday) present opportunities for “midweek special” offers to increase engagement.
 
-✅ Business Action: Implement promotional discounts on slower days to smooth out sales fluctuations.
+✅ Business Action: Implement promotional discounts on slower days to smooth out sales fluctuation
