@@ -6,13 +6,13 @@ An interactive Power BI dashboard designed to analyze and visualize pizza sales 
 
 💻 Tech Stack:
 
-*Power BI – Dashboard creation and data visualization
+*SQL – Used for data extraction, cleaning, and performing analysis through queries.
 
-*Excel / CSV Dataset – Raw data storage and preprocessing
+*Power BI – Used for building interactive dashboards and visualizing insights.
 
-*Power Query – Data transformation and cleaning
+*DAX (Data Analysis Expressions) – For creating calculated measures and KPIs in Power BI.
 
-*DAX (Data Analysis Expressions) – Calculated columns and measures
+*Power Query – For transforming and preparing SQL data before visualization.
 
 #📂 Data Source:
 
