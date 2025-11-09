@@ -201,3 +201,9 @@ High weekend demand indicates potential for dynamic pricing and targeted upselli
 Midweek sales dips (Tuesday–Thursday) present opportunities for “midweek special” offers to increase engagement.
 
 ✅ Business Action: Implement promotional discounts on slower days to smooth out sales fluctuation
+
+#Screenshot:
+
+https://github.com/sonali132005/pizzasales-dashboard/blob/main/Screenshot%202025-11-09%20111424.png
+
+https://github.com/sonali132005/pizzasales-dashboard/blob/main/Screenshot%202025-11-09%20111439.png
